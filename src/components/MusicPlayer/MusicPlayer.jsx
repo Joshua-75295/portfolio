@@ -14,19 +14,19 @@ const MusicPlayer = () => {
   // Coding playlist (using royalty-free music URLs or local files)
   const playlist = [
     { 
-      title: "Coding Flow",
-      artist: "Lo-Fi Beats",
-      url: "/music/coding-flow.mp3" // You would add actual music files
+      title: "Cheap Thrills - Josh Remake",
+      artist: "Joshua",
+      url: "/music/cheap_thrills_josh_remix.wav" // You would add actual music files
     },
     { 
-      title: "Focus Mode",
-      artist: "Ambient Sounds",
-      url: "/music/focus-mode.mp3"
+      title: "Lost Control",
+      artist: "Alan Walker",
+      url: "/music/lost_control.mp3"
     },
     { 
-      title: "Debug Session",
-      artist: "Electronic Vibes",
-      url: "/music/debug-session.mp3"
+      title: "Lo fi",
+      artist: "Focus mode",
+      url: "/music/lofi.mp3"
     }
   ];
 
